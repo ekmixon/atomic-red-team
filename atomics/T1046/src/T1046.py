@@ -17,6 +17,6 @@ arguments.add_argument('-i', required=True, action='store', dest='ip', help='IP 
 
 values = arguments.parse_args()
 print('\nOpen ports:')
-for port in range(0, 65536):
+for port in range(65536):
     t = Thread(target=checking_port, args=(values.ip, port))
     t.start()
