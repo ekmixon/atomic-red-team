@@ -1,22 +1,9 @@
-<p><img src="https://redcanary.com/wp-content/uploads/Atomic-Red-Team-Logo.png" width="150px" />
-<a
-    href="https://opensourcesecurityindex.io/"
-    target="_blank"
-    rel="noopener"
->
-<img
-        style="width: 282px; height: 56px"
-        src="https://opensourcesecurityindex.io/badge.svg"
-        alt="Open Source Security Index - Fastest Growing Open Source Security Projects"
-        width="282"
-        height="56"
-/>
-</a>
-</p>
+<p><img src="https://redcanary.com/wp-content/uploads/Atomic-Red-Team-Logo.png" width="150px" /></p>
 
 # Atomic Red Team
 
-![GitHub Action Status](https://github.com/redcanaryco/atomic-red-team/actions/workflows/validate-atomics.yml/badge.svg?branch=master) ![Atomics](https://img.shields.io/badge/Atomics-1514-flat.svg) ![GitHub Action Status](https://github.com/redcanaryco/atomic-red-team/actions/workflows/generate-docs.yml/badge.svg?branch=master)
+![GitHub Action Status](https://github.com/redcanaryco/atomic-red-team/actions/workflows/validate-atomics.yml/badge.svg?branch=master) ![Atomics](https://img.shields.io/badge/Atomics-1770-flat.svg) ![GitHub Action Status](https://github.com/redcanaryco/atomic-red-team/actions/workflows/generate-docs.yml/badge.svg?branch=master)
+
 
 Atomic Red Team™ is a library of tests mapped to the
 [MITRE ATT&CK®](https://attack.mitre.org/) framework. Security teams can use
@@ -38,12 +25,14 @@ The Atomic Red Team documentation is available as a [wiki](https://github.com/re
 For information about the philosophy and development of Atomic Red Team, visit
 our website at <https://atomicredteam.io>.
 
+To stay up to date on all things Atomic Red Team, sign up for the Atomic Newsletter: https://redcanary.com/atomic-newsletter/
+
 ## Contribute to Atomic Red Team
 
 Atomic Red Team is open source and community developed. If you're interested in
 becoming a contributor, check out these resources:
 
-- Join our [Slack workspace](https://slack.atomicredteam.io) and get involved
+- Join our [Slack workspace](https://atomicredteam.io/slack) and get involved
   with the community. Don't forget to review the [code of conduct](CODE_OF_CONDUCT.md)
   before you join.
 - Report bugs and request new features by [submitting an issue](https://github.com/redcanaryco/atomic-red-team/issues/new/choose).
